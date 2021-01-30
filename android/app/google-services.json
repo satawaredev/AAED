@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676570748729",
+    "project_id": "sensoryscape-f02a6",
+    "storage_bucket": "sensoryscape-f02a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676570748729:android:b61bf08dcbf91a7904bae8",
+        "android_client_info": {
+          "package_name": "com.sataware.sensoryscape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676570748729-5nottsivb5bch6177f10aksipqmob0uk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBP_PzdLFWReOkloRG5vEf7yl5iAxu-Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676570748729-5nottsivb5bch6177f10aksipqmob0uk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
